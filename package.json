@@ -1,0 +1,25 @@
+{
+  "name": "base64",
+  "version": "0.0.1",
+  "description": "a sample demo of base64 enocode and decode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun19wadikar/base64.git"
+  },
+  "keywords": [
+    "base",
+    "6",
+    "enocde",
+    "decode"
+  ],
+  "author": "Arun Wadikar <wadikararun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arun19wadikar/base64/issues"
+  },
+  "homepage": "https://github.com/Arun19wadikar/base64#readme"
+}
